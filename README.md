@@ -43,4 +43,4 @@ Si quieres probar este proyecto en tu ordenador (XAMPP/WAMP):
 4.  Abre el navegador en `localhost/tu-carpeta/form_login.php`.
 
 ---
-*Desarrollado por Eduardo Durán.*
+*Desarrollado por Eduardo Durán Banegas.*
